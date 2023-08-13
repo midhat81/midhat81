@@ -1,7 +1,4 @@
-🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Image Processing, Biometrics and Pattern Recognition.
-
-💭 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
-
-👯 I'm interested in mentoring, coaching and collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
-
-👉🏼 Feel free to connect with me on LinkedIn to stay updated with my latest AI content.
+I'm Muhammad Midhat, an accomplished professional with over 3 years of hands-on experience in the field of Machine Learning. My passion lies at the intersection of Machine Learning, Natural Language Processing (NLP), and Computer Vision.
+Throughout my career, I have actively contributed to various projects and have developed a deep understanding of implementing cutting-edge algorithms and techniques to solve real-world problems. My expertise spans across designing and training intricate models, data preprocessing, and deploying solutions that optimize performance and user experience.
+I take pride in my ability to communicate complex technical concepts effectively, making me a valuable collaborator in cross-functional teams. My curiosity and drive for continuous learning have enabled me to stay up-to-date with the ever-evolving landscape of Machine Learning, ensuring that I remain at the forefront of innovation.
+I am particularly excited about leveraging my skills to tackle challenging problems and contribute meaningfully to the advancement of AI technology. My commitment to excellence, combined with my technical proficiency, positions me to excel in dynamic and forward-thinking environments.
