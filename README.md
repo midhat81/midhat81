@@ -1,4 +1,5 @@
-🔹 I’m Muhammad Midhat, a Senior Full Stack & AI Engineer with 7+ years of experience building scalable web and AI solutions. I specialize in React, TypeScript, Node.js, AWS, Docker, and LLM/AI agent-powered applications.
-🧠 I’ve led ML/AI projects in computer vision, NLP, generative AI, RAG chatbots, and time series forecasting, delivering production-ready solutions. I’ve also built full-stack applications and robust backend systems integrated with cloud infrastructure and containerized deployments.
-💡 I’m passionate about designing intelligent, real-world systems that combine modern web technologies with AI capabilities, optimizing performance, usability, and scalability.
-📫 Let’s connect if you’re exploring AI-driven products, full-stack engineering, or research collaborations — I thrive at the intersection of software development and AI innovation.
+🔹 Founding / Staff Engineer with 7+ years of experience building scalable full-stack systems, backend platforms, and AI-powered products from 0→1 and beyond.
+⚙️ Strong background in frontend & backend engineering, working hands-on with React, TypeScript, JavaScript, Node.js, Python, Go, Rust, and AWS. I design APIs, distributed services, databases, real-time systems, and cloud-native architectures, shipping production-ready software that scales.
+🧠 Deep experience integrating AI into real products, including LLMs, AI agents, RAG systems, computer vision, NLP, generative AI, and time-series forecasting focused on reliability, performance, and real user impact.
+💡 I thrive in fast-paced startup environments, owning systems end-to-end and bridging product, full-stack engineering, and applied AI to turn ideas into shipped products.
+📫 Open to conversations around AI-driven products, full-stack / backend leadership, and building systems that scale in the real world.
